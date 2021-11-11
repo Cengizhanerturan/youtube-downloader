@@ -1,4 +1,4 @@
-# Welcome to Python with Youtube Downloader!
+# Welcome to Youtube Downloader with Python!
 
 This is a music and video download application from youtube. 
 
